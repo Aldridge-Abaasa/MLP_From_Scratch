@@ -17,8 +17,6 @@ This project is a simple implementation of a Multi-Layer Perceptron (MLP) built 
 MLP_From_Scratch/
 ├── src/
 │   └── mlp.cpp                 # Main C++ code for the MLP
-├── data/
-│   └── xor_training_data.txt    # Sample XOR data file for training/testing (optional)
 ├── include/
 │   └── mlp.hpp                  # Header file with class declarations (optional if you split the code)
 ├── README.md                    # Project documentation
