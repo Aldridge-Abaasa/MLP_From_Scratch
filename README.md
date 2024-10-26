@@ -13,7 +13,7 @@ This project is a simple implementation of a Multi-Layer Perceptron (MLP) built 
 
 ## Project Structure
 
-```plaintext
+```
 MLP_From_Scratch/
 ├── src/
 │   └── mlp.cpp                 # Main C++ code for the MLP
@@ -22,4 +22,4 @@ MLP_From_Scratch/
 ├── README.md                    # Project documentation
 └── .gitignore                   # Git ignore file
 
-```g++ -o mlp main.cpp src/mlp.cpp -I include
+g++ -o mlp main.cpp src/mlp.cpp -I include
