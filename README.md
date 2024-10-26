@@ -11,9 +11,9 @@ This project is a simple implementation of a Multi-Layer Perceptron (MLP) built 
 - Train the MLP using backpropagation
 - Example training on the XOR function and a custom function based on `sin(x1 - x2 + x3 - x4)`
 
-**g++ -o mlp main.cpp src/mlp.cpp -I include**
+```**g++ -o mlp main.cpp src/mlp.cpp -I include**
 
-**./mlp**
+```**./mlp**
 
 ## Project Structure
 
