@@ -21,3 +21,5 @@ MLP_From_Scratch/
 │   └── mlp.hpp                  # Header file with class declarations (optional if you split the code)
 ├── README.md                    # Project documentation
 └── .gitignore                   # Git ignore file
+
+```g++ -o mlp main.cpp src/mlp.cpp -I include
