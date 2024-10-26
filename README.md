@@ -22,5 +22,4 @@ MLP_From_Scratch/
 ├── include/
 │   └── mlp.hpp                  # Header file with class declarations (optional if you split the code)
 ├── README.md                    # Project documentation
-├── .gitignore                   # Git ignore file
-└── LICENSE                      # License for the project
+└── .gitignore                   # Git ignore file
